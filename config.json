@@ -1,0 +1,21 @@
+{
+    "window_title": "",
+    "detection_area": {
+        "x": 538,
+        "y": 587,
+        "width": 812,
+        "height": 352
+    },
+    "click_offset": {
+        "x": 0,
+        "y": 0
+    },
+    "target_text": "点击前往",
+    "click_text": "点击前往",
+    "similarity_threshold": 0.6,
+    "loop_interval": 0.01,
+    "max_retries": 10,
+    "retry_delay": 5,
+    "standby_interval": 30,
+    "max_failure_count": 3
+}
