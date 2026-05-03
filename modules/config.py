@@ -43,6 +43,8 @@ class ConfigManager:
             "click_text": "点击前往",
             "similarity_threshold": 0.8,
             "loop_interval": 2,
+            "click_count": 10,
+            "click_interval": 0.01,
             "max_retries": 10,
             "retry_delay": 5,
             "standby_interval": 30,
