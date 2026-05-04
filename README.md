@@ -1,7 +1,11 @@
-# 自动点击监控系统
+# 王者荣耀世界自动抢救援脚本
+
+不是兄弟们别光下载倒是点下star啊！
+
 
 > **抖音：是凌云诶**  
 > 视频教程：https://v.douyin.com/BpdqYPcNoJQ
+> 哔哩哔哩：https://www.bilibili.com/video/BV1S9RiBWEco/
 
 ---
 
